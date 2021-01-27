@@ -19,9 +19,10 @@ Your data will be stored on Facebook Messenger and Chatfuele’s servers. Data m
 
 ## Your rights  
 Your privacy is respected in accordance with the General Data Protection Regulation which provides the highest standard of privacy protection. In general, you may have the following rights: Right to information; Right of access and inspection; Right to rectification; Right to be forgotten; Right of objection and limitation to the data processing; and Right to data portability. Please note that such rights are not absolute. There are instances where applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal data that we hold about you. In the event that we cannot accommodate your request, we will inform you of the reasons why, subject to any legal or regulatory restrictions.
+
 Please also note that we may require additional information, including certain personal data, in order to authenticate and process your request. Such additional information may be then retained by us for legal purposes (e.g., as proof of the identity of the person submitting the request).
 
 **By clicking the "I read and Agree" button you agree with the below information.** I understand and agree that:
 
-●	I hereby consent that 6 over 6 may use pictures of me in which I appear and I consent for the processing of my personal data for the purpose of developing the tool. 
-●	I have the right to withdraw my consent at any time following which the company may retain and process only personal data collected before I withdraw my consent or that is otherwise required under applicable law. 
+*	I hereby consent that 6 over 6 may use pictures of me in which I appear and I consent for the processing of my personal data for the purpose of developing the tool. 
+*	I have the right to withdraw my consent at any time following which the company may retain and process only personal data collected before I withdraw my consent or that is otherwise required under applicable law. 
