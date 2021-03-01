@@ -6,9 +6,10 @@ We wish to note that you are **not** legally required to provide us with any per
 During the session, we will collect the following types of data (which can also include personal data):
 
 -	**Website usage data:** such data include connectivity, technical and aggregated usage data, such as user agent, IP addresses, device data (like type, OS, device ID, browser version, locale and language settings used), location, connectivity data, activity logs; 
--	**Data you provide:** before your enrollment, we will ask you to provide the following data: gender, age range, mobile device mobile you’ll use for the purpose of the session and whether or not you have glasses. We will also ask you to confirm that your English skills are sufficient to participate in the session. In addition, we will ask you to send us a selfie of yourself (which can be either an image or a video). These categories of data will be collected through Facebook Messenger (as further explained below) and  are required in order for us to decide whether you are eligible to participate in the session.
+-	**Data you provide:** before your enrollment, we will ask you to provide the following data: gender, age range, mobile device mobile you’ll use for the purpose of the session and whether or not you have glasses. We will also ask you to confirm that your English skills are sufficient to participate in the session. These categories of data will be collected through Facebook Messenger (as further explained below) and  are required in order for us to decide whether you are eligible to participate in the session.
 -	**Data collected through 6over6 app:** Using the 6over6 application you’ll be asked to take pictures of your face using your mobile device's selfie camera while you move in different distances from the device in different positions.
--	**Contact data:** once the session has ended (assuming that you are found eligible) we will provide you with a serial number and your session ID. This will allow us to analyse your images and implement any results thereon into our tool. We may also ask you to provide us with your email address so that we can send you your amazon claim code and any other communication with you regarding your participation. 
+-	**Contact data:** once the session has ended (assuming that you are found eligible) we will provide you with a serial number and your session ID. This will allow us to analyse your images and implement any results thereon into our tool. We may also ask you to provide us with your email address or a mobile phone number so that we can send you your gift card and any other communication with you regarding your participation. 
+
 
 
 ## Responsibilities
@@ -22,7 +23,7 @@ Your privacy is respected in accordance with the General Data Protection Regulat
 
 Please also note that we may require additional information, including certain personal data, in order to authenticate and process your request. Such additional information may be then retained by us for legal purposes (e.g., as proof of the identity of the person submitting the request).
 
-**By clicking the "I read and Agree" button you agree with the below information.** I understand and agree that:
+**By clicking the "Read and Agree" button you agree with the below information.** I understand and agree that:
 
 *	I hereby consent that 6 over 6 may use pictures of me in which I appear and I consent for the processing of my personal data for the purpose of developing the tool. 
 *	I have the right to withdraw my consent at any time following which the company may retain and process only personal data collected before I withdraw my consent or that is otherwise required under applicable law. 
